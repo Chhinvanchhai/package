@@ -1,0 +1,22 @@
+{
+  "name": "tst-form",
+  "version": "1.0.0",
+  "description": "easily for you to handle form",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chhinvanchhai/print-form.git"
+  },
+  "author": "Chhin Vanchhai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chhinvanchhai/print-form/issues"
+  },
+  "homepage": "https://github.com/Chhinvanchhai/print-form#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
